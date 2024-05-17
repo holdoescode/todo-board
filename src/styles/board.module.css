@@ -1,0 +1,17 @@
+.board {
+    display: inline-flex;
+    flex-direction: column;
+    border: 1px solid black;
+    max-width: 30%;
+}
+
+.title {
+    text-align: center;
+    margin: 0.7em;
+}
+
+.deleteButton {
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 0.5em;
+}
